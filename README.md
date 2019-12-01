@@ -1,3 +1,6 @@
+Version for Breadman Ultimate Plus
+This delux bread machine has two motor pins, two thermistor pins, a nut dispensor pin, and a few unknown pins.
+
 Arduino Bread
 =======================
 
